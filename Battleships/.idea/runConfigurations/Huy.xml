@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Huy" type="Application" factoryName="Application" singleton="false">
+    <envs>
+      <env name="CONSOLEMODE" value="0" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="application.Main" />
+    <module name="Battleships" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
